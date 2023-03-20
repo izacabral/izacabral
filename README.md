@@ -16,5 +16,3 @@ I have a variety of interesting:
 -	👩‍🔧 I like handicrafts like small carpentry 
 -	👩‍💻 I’m loving code
 -	🚶‍♀️ My hobbies are trekking, photographing, getting close to nature
----
-
