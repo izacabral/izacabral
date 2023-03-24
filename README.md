@@ -3,8 +3,7 @@
   <a href="https://www.linkedin.com/in/izabele-cabral-963534116/">Linkedin</a>
 </p>
 
-
-I’m an avid self-learner and curious. I used to be an architect, when almosty by accident I was introduced to the selection process at [@42Rio](https://42.rio/), a **software engineering school** and now I'm a ***cadet*** (as students from galaxy 42 are called) and this world has become my new passion.👩‍💻
+I am a passionate and self-motivated learner, always seeking new knowledge and experiences. My background in architecture has provided me with valuable skills in design, planning and project management. Currently, I am pursuing my newfound passion for software engineering at [@42Rio](https://42.rio/), where I am gaining expertise in programming and developing innovative solutions. 👩‍💻
 
 -	😄 Pronouns: She/Her
 -	🌱 I’m currently learning **`C`** and **`Algorithms`**
